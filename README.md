@@ -1,7 +1,7 @@
 # Image Compression using the Huffman Method
 
-En este proyecto se programa en lenguaje C el metodo de Huffman para comprimir 3 archiivos: 
+In this project, the Huffman method to compress 3 files is programmed in C language:
 
-1. La famosa imagen de Lena
-2. Fractal tree
-3. Todo el libro de Don Quijote en inglés
+1. The famous image of Lena
+2.Fractal tree
+3. The entire Don Quixote book in English
